@@ -10,7 +10,7 @@ Para a execução do código utilize:
 gcc −g −Wall −fopenmp −o Codigo1 Codigo1.c
 ```
 
-Executar:
+2- Executar
 ```
 ./Codigo1 3
 ```
