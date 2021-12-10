@@ -1,7 +1,7 @@
 # ProjetoExtra
 
 Projeto realizado com consultas ao material de aula e contúdos online, utilizando os conceitos, nada foi copiado diretamente dos sites.
-Realizado em Máquina Virtual.
+Realizado em Ubunto em Máquina Virtual.
 
 Para a execução do código utilize:
 
